@@ -1,0 +1,26 @@
+.inputStep,
+.formLabel,
+.radioGroup {
+  margin: 20px;
+}
+
+.radioGroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputStep {
+  width: 150px;
+}
+
+.buttonsContainer {
+  margin: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.slider {
+  margin: 10px;
+}

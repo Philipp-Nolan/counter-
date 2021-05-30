@@ -1,0 +1,9 @@
+// @import '../../common/templates.scss';
+@import './Controlls/controlls.module.scss';
+@import './Display/display.module.scss';
+@import '../../common/templates.scss';
+
+.counter {
+  @extend %flex-center;
+  min-width: 300px;
+}
